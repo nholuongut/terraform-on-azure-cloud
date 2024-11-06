@@ -122,8 +122,7 @@
 - From Azure cloud perspective, also for complex topics like Standard Load Balancer, Application Gateway, Virtual Machine Scale Sets, we first implemnt via Azure Portal and then automate them via Terraform. 
 
 ## Github Repositories used for this Demos
-- [Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos](https://github.com/nholuongut/terraform-on-azure-cloud)
-- [Terraform on Azure with Azure DevOps](https://github.com/nholuongut/terraform-on-azure-cloud)
+- [Terraform on Azure Cloud Demos](https://github.com/nholuongut/terraform-on-azure-cloud)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the Demos.
 
 ## Each of my Demoss come with
